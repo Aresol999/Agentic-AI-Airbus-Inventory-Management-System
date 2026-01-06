@@ -101,10 +101,8 @@ LEARNING OUTCOMES
 
 IMPROVEMENTS
 
-• Authentication and role-based access (Admin / Operator)
-• Advanced analytics and reporting tools
 • REST API layer in parallel with MCP tools
-• Cloud database deployment (AWS RDS / Azure / GCP)
+• Cloud database deployment
 • Production-grade logging and monitoring
 • Integration with ERP or supply chain systems
 
