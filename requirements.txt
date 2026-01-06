@@ -1,0 +1,3 @@
+mcp
+pymysql
+cryptography
